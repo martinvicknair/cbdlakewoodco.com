@@ -20,10 +20,6 @@ post_date: 2020-04-27 12:18:41
 <div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/hemp-oil-pets.jpg" alt="" class="wp-image-28" width="480" height="245"/></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:paragraph -->
-<p>[slide</p>
-<!-- /wp:paragraph -->
-
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":29,"sizeSlug":"large"} -->
@@ -51,7 +47,7 @@ post_date: 2020-04-27 12:18:41
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":56,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/lakewood"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/05/shop-now-shaman.jpg" alt="" class="wp-image-56"/></a><figcaption><a href="https://cbdamericanshaman.com/lakewood">Free shipping with $99 purchase</a></figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/lakewood"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/05/shop-now-shaman.jpg" alt="" class="wp-image-56"/></a><figcaption><a href="https://cbdamericanshaman.com/lakewood">Visit our Online Store - Free shipping with $99 purchase</a></figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
