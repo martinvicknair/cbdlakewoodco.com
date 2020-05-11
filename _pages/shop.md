@@ -16,8 +16,8 @@ post_date: 2020-04-27 12:18:41
 <p>We support farms that are growing Non-GMO crops and understand the sustainability of hemp as a crop. Hemp is naturally resistant to most pests. Therefore there is no need for pesticides, herbicides or toxic fertilizer.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":28,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/hemp-oil-pets.jpg" alt="" class="wp-image-28"/></figure>
+<!-- wp:image {"align":"center","id":28,"sizeSlug":"medium"} -->
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/hemp-oil-pets-300x153.jpg" alt="" class="wp-image-28"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:columns -->
