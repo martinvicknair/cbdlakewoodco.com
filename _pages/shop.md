@@ -4,7 +4,7 @@ post_title: Shop
 author: martinvicknair
 post_excerpt: ""
 layout: page
-permalink: http://cbdlakewoodco.com/shop/
+permalink: https://cbdlakewoodco.com/shop/
 published: true
 post_date: 2020-04-27 12:18:41
 ---
@@ -46,20 +46,16 @@ post_date: 2020-04-27 12:18:41
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":32,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/shop-online-button-300x112-1.jpg" alt="" class="wp-image-32"/><figcaption>Free shipping with $99 purchase</figcaption></figure>
-<!-- /wp:image --></div>
+<div class="wp-block-column"></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"></div>
+<div class="wp-block-column"><!-- wp:image {"id":53,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/buy-online-now.png" alt="" class="wp-image-53"/><figcaption>Free shipping with $99 purchase</figcaption></figure>
+<!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
-
-<!-- wp:paragraph -->
-<p>[slide-anything id="42"]</p>
-<!-- /wp:paragraph -->
