@@ -8,6 +8,10 @@ permalink: https://cbdlakewoodco.com/shop/
 published: true
 post_date: 2020-04-27 12:18:41
 ---
+<!-- wp:heading -->
+<h2>Shop CBD American Shaman of Lakewood's online store -  free delivery with $99 purchase!</h2>
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
 <p>100% Organic Growing Process</p>
 <!-- /wp:paragraph -->
