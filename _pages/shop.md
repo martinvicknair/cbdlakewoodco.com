@@ -4,12 +4,12 @@ post_title: Shop
 author: martinvicknair
 post_excerpt: ""
 layout: page
-permalink: http://cbdlakewoodco.com/shop/
+permalink: https://cbdlakewoodco.com/shop/
 published: true
 post_date: 2020-04-27 12:18:41
 ---
 <!-- wp:heading -->
-<h2>Shop in person at <a href="https://goo.gl/maps/oRfXbrcsLsq2zSYg9">1901 Kipling St A, Lakewood, CO 80215</a>. Convenient to Applewood and Morse Park. </h2>
+<h2>Shop in person at <a href="https://goo.gl/maps/oRfXbrcsLsq2zSYg9">1901 Kipling St A, Lakewood, CO 80215</a>. <br>Convenient to Applewood and Morse Park. </h2>
 <!-- /wp:heading -->
 
 <!-- wp:html -->
