@@ -4,13 +4,17 @@ post_title: Shop
 author: martinvicknair
 post_excerpt: ""
 layout: page
-permalink: http://cbdlakewoodco.com/shop/
+permalink: https://cbdlakewoodco.com/shop/
 published: true
 post_date: 2020-04-27 12:18:41
 ---
 <!-- wp:heading -->
 <h2>Shop in person at <a href="https://goo.gl/maps/oRfXbrcsLsq2zSYg9">1901 Kipling St A, Lakewood, CO 80215</a></h2>
 <!-- /wp:heading -->
+
+<!-- wp:html -->
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3067.6813954843255!2d-105.11221018462437!3d39.746807079448615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876b87e496084733%3A0x507731f5b87c8da1!2sCBD%20American%20Shaman%20of%20Lakewood%20CO!5e0!3m2!1sen!2sus!4v1588010966108!5m2!1sen!2sus" width="300" height="225" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<!-- /wp:html -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
