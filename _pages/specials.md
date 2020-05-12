@@ -13,5 +13,5 @@ post_date: 2020-05-11 12:35:38
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>[custom-facebook-feed]</p>
+<p>[custom-facebook-feed likeboxpos=top]</p>
 <!-- /wp:paragraph -->
