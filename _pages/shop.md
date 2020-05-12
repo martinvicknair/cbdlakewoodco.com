@@ -4,7 +4,7 @@ post_title: Shop
 author: martinvicknair
 post_excerpt: ""
 layout: page
-permalink: http://cbdlakewoodco.com/shop/
+permalink: https://cbdlakewoodco.com/shop/
 published: true
 post_date: 2020-04-27 12:18:41
 ---
@@ -12,23 +12,27 @@ post_date: 2020-04-27 12:18:41
 <h2>Shop CBD American Shaman of Lakewood's online store -  free delivery with $99 purchase!</h2>
 <!-- /wp:heading -->
 
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":66,"sizeSlug":"medium"} -->
-<figure class="wp-block-image size-medium"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/05/cbd-gummies-300x200.jpg" alt="" class="wp-image-66"/><figcaption>CBD Gummies</figcaption></figure>
+<!-- wp:columns {"verticalAlignment":null} -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":66,"sizeSlug":"medium"} -->
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/05/cbd-gummies-300x200.jpg" alt="" class="wp-image-66"/><figcaption>CBD Gummies</figcaption></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":30,"sizeSlug":"medium"} -->
-<figure class="wp-block-image size-medium"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/05/cbd-terpene-rich-hemp-oil-tincture-300x300.jpg" alt="" class="wp-image-30"/><figcaption>CBD Tinctures</figcaption></figure>
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":30,"sizeSlug":"medium"} -->
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/05/cbd-terpene-rich-hemp-oil-tincture-300x300.jpg" alt="" class="wp-image-30"/><figcaption>CBD Tinctures</figcaption></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":76,"sizeSlug":"medium"} -->
-<figure class="wp-block-image size-medium"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/05/cbd-dog-treats-209x300.jpg" alt="" class="wp-image-76"/><figcaption>Dog &amp; Cat Treats</figcaption></figure>
-<!-- /wp:image --></div>
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":76,"sizeSlug":"medium"} -->
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/05/cbd-dog-treats-209x300.jpg" alt="" class="wp-image-76"/><figcaption>Dog &amp; Cat Treats</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
