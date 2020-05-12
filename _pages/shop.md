@@ -4,7 +4,7 @@ post_title: Shop
 author: martinvicknair
 post_excerpt: ""
 layout: page
-permalink: http://cbdlakewoodco.com/shop/
+permalink: https://cbdlakewoodco.com/shop/
 published: true
 post_date: 2020-04-27 12:18:41
 ---
@@ -41,7 +41,7 @@ post_date: 2020-04-27 12:18:41
 <!-- /wp:image -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table><tbody><tr><td><img class="wp-image-71" style="width: 150px;" src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/CBD-American-Shaman-Water-Soluble-Relief-01.jpg" alt=""></td><td><img class="wp-image-70" style="width: 150px;" src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/CBD-American-Shaman-Water-Soluble-Wellness-02.jpg" alt=""></td><td><img class="wp-image-69" style="width: 150px;" src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/CBD-American-Shaman-Hydrating-Lotion-Beauty-03-.jpg" alt=""></td><td><img class="wp-image-68" style="width: 150px;" src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/CBD-American-Shaman-PETS-04-v2.jpg" alt=""></td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><tbody><tr><td><img class="wp-image-71" style="width: 300px;" src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/CBD-American-Shaman-Water-Soluble-Relief-01.jpg" alt=""></td><td><img class="wp-image-70" style="width: 150px;" src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/CBD-American-Shaman-Water-Soluble-Wellness-02.jpg" alt=""></td><td><img class="wp-image-69" style="width: 150px;" src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/CBD-American-Shaman-Hydrating-Lotion-Beauty-03-.jpg" alt=""></td><td><img class="wp-image-68" style="width: 150px;" src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/CBD-American-Shaman-PETS-04-v2.jpg" alt=""></td></tr></tbody></table></figure>
 <!-- /wp:table --></div>
 <!-- /wp:column -->
 
