@@ -26,15 +26,23 @@ post_date: 2020-04-27 12:18:41
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":29,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/cbd-joints.jpg" alt="" class="wp-image-29"/><figcaption>Pre-rolled cones</figcaption></figure>
-<!-- /wp:image --></div>
+<div class="wp-block-column"><!-- wp:image {"id":66,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/05/cbd-gummies.jpg" alt="" class="wp-image-66"/><figcaption>CBD Gummies</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":30,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/cbd-terpene-rich-hemp-oil-tincture.jpg" alt="" class="wp-image-30"/><figcaption>Terpene Rich Hemp Oil Tincture</figcaption></figure>
-<!-- /wp:image --></div>
+<!-- /wp:image -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table><tbody><tr><td><img class="wp-image-71" style="width: 150px;" src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/CBD-American-Shaman-Water-Soluble-Relief-01.jpg" alt=""></td><td><img class="wp-image-70" style="width: 150px;" src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/CBD-American-Shaman-Water-Soluble-Wellness-02.jpg" alt=""></td><td><img class="wp-image-69" style="width: 150px;" src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/CBD-American-Shaman-Hydrating-Lotion-Beauty-03-.jpg" alt=""></td><td><img class="wp-image-68" style="width: 150px;" src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/CBD-American-Shaman-PETS-04-v2.jpg" alt=""></td></tr></tbody></table></figure>
+<!-- /wp:table --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
