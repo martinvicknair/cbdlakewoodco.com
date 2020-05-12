@@ -4,7 +4,7 @@ post_title: Specials
 author: martinvicknair
 post_excerpt: ""
 layout: page
-permalink: https://cbdlakewoodco.com/specials/
+permalink: http://cbdlakewoodco.com/specials/
 published: true
 post_date: 2020-05-11 12:35:38
 ---
