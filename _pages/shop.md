@@ -4,7 +4,7 @@ post_title: Shop
 author: martinvicknair
 post_excerpt: ""
 layout: page
-permalink: http://cbdlakewoodco.com/shop/
+permalink: https://cbdlakewoodco.com/shop/
 published: true
 post_date: 2020-04-27 12:18:41
 ---
@@ -46,9 +46,7 @@ post_date: 2020-04-27 12:18:41
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":31,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdlakewoodco.com/wp-content/uploads/2020/05/cbd-terpene-rich-hemp-oil-clearomizer.jpg" alt="" class="wp-image-31"/><figcaption>CBD Vape Pens</figcaption></figure>
-<!-- /wp:image --></div>
+<div class="wp-block-column"></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
