@@ -5,7 +5,7 @@ author: cbdlakewood
 post_excerpt: ""
 layout: post
 permalink: >
-  https://cbdlakewoodco.com/posts/relief/cbnight-water-soluble-cbn-oil/
+  http://cbdlakewoodco.com/posts/relief/cbnight-water-soluble-cbn-oil/
 published: true
 post_date: 2020-09-13 20:05:56
 ---
