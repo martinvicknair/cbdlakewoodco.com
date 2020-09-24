@@ -5,7 +5,7 @@ author: cbdlakewood
 post_excerpt: ""
 layout: post
 permalink: >
-  https://cbdlakewoodco.com/posts/edibles/cbg-gummies/
+  http://cbdlakewoodco.com/posts/edibles/cbg-gummies/
 published: true
 post_date: 2020-09-14 10:18:02
 ---
