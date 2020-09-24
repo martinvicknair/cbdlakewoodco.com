@@ -10,11 +10,11 @@ published: true
 post_date: 2020-09-13 20:05:56
 ---
 <!-- wp:image {"id":607,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/cbn-oil"><img src="http://cbdlakewoodco.com/wp-content/uploads/2020/09/cbnight-1.jpg" alt="" class="wp-image-607"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/lakewood/cbn-oil"><img src="http://cbdlakewoodco.com/wp-content/uploads/2020/09/cbnight-1.jpg" alt="" class="wp-image-607"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":1} -->
-<h1><a href="https://cbdamericanshaman.com/littleton/cbn-oil">Buy CBNight Water Soluble Online</a></h1>
+<h1><a href="https://cbdamericanshaman.com/lakewood/cbn-oil">Buy CBNight Water Soluble Online</a></h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
