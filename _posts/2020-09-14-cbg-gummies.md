@@ -10,11 +10,11 @@ published: true
 post_date: 2020-09-14 10:18:02
 ---
 <!-- wp:image {"id":610,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/cbg-gummies"><img src="http://cbdlakewoodco.com/wp-content/uploads/2020/09/cbg-gummies.jpg" alt="" class="wp-image-610"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/lakewood/cbg-gummies"><img src="http://cbdlakewoodco.com/wp-content/uploads/2020/09/cbg-gummies.jpg" alt="" class="wp-image-610"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":1} -->
-<h1><a href="https://cbdamericanshaman.com/littleton/cbg-gummies">Buy CBG Gummies Online</a></h1>
+<h1><a href="https://cbdamericanshaman.com/lakewood/cbg-gummies">Buy CBG Gummies Online</a></h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
