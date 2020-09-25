@@ -5,7 +5,7 @@ author: cbdlakewood
 post_excerpt: 'We invite you to visit us and learn about the many benefits of our high quality CBD products! Come in today to our convenient Littleton location for a Free CBD Sample and receive 15% off at checkout.'
 layout: post
 permalink: >
-  http://cbdlakewoodco.com/posts/coupons/15-off-coupon-post/
+  https://cbdlakewoodco.com/posts/coupons/15-off-coupon-post/
 published: true
 post_date: 2020-09-01 17:23:00
 ---
@@ -21,8 +21,8 @@ post_date: 2020-09-01 17:23:00
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
 
-<!-- wp:image {"id":615,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="http://cbdlakewoodco.com/wp-content/uploads/2020/09/15-off-coupon.jpg" target="_blank" rel="noopener noreferrer"><img src="http://cbdlakewoodco.com/wp-content/uploads/2020/09/15-off-coupon-1024x638.jpg" alt="" class="wp-image-615"/></a></figure>
+<!-- wp:image {"id":676,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://cbdlakewoodco.com/wp-content/uploads/2020/09/15-off-coupon.jpg" target="_blank" rel="noopener noreferrer"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/09/15-off-coupon-1024x638.jpg" alt="" class="wp-image-676"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
