@@ -5,7 +5,7 @@ author: cbdlakewood
 post_excerpt: ""
 layout: page
 permalink: >
-  https://cbdlakewoodco.com/lakewood-co-store/
+  http://cbdlakewoodco.com/lakewood-co-store/
 published: true
 post_date: 2020-09-26 12:31:04
 ---
