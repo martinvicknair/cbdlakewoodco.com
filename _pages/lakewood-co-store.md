@@ -1,6 +1,6 @@
 ---
 ID: 679
-post_title: Lakewood CO Store
+post_title: Lakewood Colorado Store
 author: cbdlakewood
 post_excerpt: ""
 layout: page
