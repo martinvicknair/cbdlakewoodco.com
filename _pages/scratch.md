@@ -8,12 +8,12 @@ permalink: https://cbdlakewoodco.com/scratch/
 published: true
 post_date: 2020-10-01 12:31:58
 ---
-<!-- wp:html -->
-<script>function loadReview(){
+<!-- wp:code -->
+<pre class="wp-block-code"><code>&lt;script>function loadReview(){
   $('#target-div').load('https://cbdamericanshaman.com/hydrating-body-lotion #quantity-box')
 };
-</script>
-<!-- /wp:html -->
+&lt;/script></code></pre>
+<!-- /wp:code -->
 
 <!-- wp:paragraph -->
 <p>1</p>
