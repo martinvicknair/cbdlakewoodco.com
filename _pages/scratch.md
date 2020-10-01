@@ -13,5 +13,5 @@ $('#target-div').load('https://cbdamericanshaman.com/hydrating-body-lotion #yotp
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p id="target-div">1</p>
+<p>1</p>
 <!-- /wp:paragraph -->
