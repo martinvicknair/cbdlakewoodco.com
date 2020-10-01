@@ -20,7 +20,7 @@ post_date: 2020-08-25 22:52:45
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong><a href="https://www.google.com/search?q=CBD+American+Shaman+of+Lakewood&amp;entrypoint=sh/x/kp/local#lkt=LocalPoiReviews">Click here to leave your Google Review!</a></strong></p>
+<p><strong><a href="https://g.page/cbd-american-shaman-of-lakewood?share">Click here to leave your Google Review!</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
