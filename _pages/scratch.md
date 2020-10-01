@@ -12,6 +12,6 @@ post_date: 2020-10-01 12:31:58
 $('#target-div').load('https://cbdamericanshaman.com/hydrating-body-lotion #yotpo-bottomline');
 <!-- /wp:html -->
 
-<!-- wp:paragraph -->
-<p id="target-div">1</p>
-<!-- /wp:paragraph -->
+<!-- wp:preformatted -->
+<pre id="target-div" class="wp-block-preformatted">1</pre>
+<!-- /wp:preformatted -->
