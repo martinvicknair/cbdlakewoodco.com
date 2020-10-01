@@ -15,6 +15,6 @@ post_date: 2020-10-01 12:31:58
 &lt;/script></code></pre>
 <!-- /wp:code -->
 
-<!-- wp:paragraph -->
-<p>1</p>
-<!-- /wp:paragraph -->
+<!-- wp:code -->
+<pre class="wp-block-code"><code>1</code></pre>
+<!-- /wp:code -->
