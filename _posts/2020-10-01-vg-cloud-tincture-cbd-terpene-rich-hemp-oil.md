@@ -5,7 +5,7 @@ author: cbdlakewood
 post_excerpt: ""
 layout: post
 permalink: >
-  https://cbdlakewoodco.com/posts/uncategorized/vg-cloud-tincture-cbd-terpene-rich-hemp-oil/
+  https://cbdlakewoodco.com/posts/relief/vg-cloud-tincture-cbd-terpene-rich-hemp-oil/
 published: true
 post_date: 2020-10-01 20:06:33
 ---
