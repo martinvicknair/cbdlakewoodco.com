@@ -5,7 +5,7 @@ author: cbdlakewood
 post_excerpt: 'We invite you to visit us and learn about the many benefits of our high quality CBD products! Come in today to our convenient Littleton location for a Free CBD Sample and receive 15% off at checkout.'
 layout: post
 permalink: >
-  http://cbdlakewoodco.com/posts/coupons/15-percent-off-american-shaman-store-coupon/
+  https://cbdlakewoodco.com/posts/coupons/15-percent-off-american-shaman-store-coupon/
 published: true
 post_date: 2020-09-01 17:23:00
 ---
@@ -22,7 +22,7 @@ post_date: 2020-09-01 17:23:00
 <!-- /wp:separator -->
 
 <!-- wp:image {"id":676,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://cbdlakewoodco.com/wp-content/uploads/2020/09/15-off-coupon.jpg" target="_blank" rel="noopener noreferrer"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/09/15-off-coupon-1024x638.jpg" alt="" class="wp-image-676"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdlakewoodco.com/wp-content/uploads/2020/09/15-off-coupon.jpg" target="_blank" rel="noopener noreferrer"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/09/15-off-coupon-1024x638.jpg" alt="" class="wp-image-676"/></a><figcaption><strong>COUPON CODE: WWW15 Expires: [wpdts-date days="+5"]</strong></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
