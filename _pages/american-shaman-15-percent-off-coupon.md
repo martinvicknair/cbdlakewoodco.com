@@ -5,7 +5,7 @@ author: cbdlakewood
 post_excerpt: 'Come in today to our convenient Lakewood, Co location for a Free CBD Sample and receive 15% off at checkout.'
 layout: page
 permalink: >
-  https://cbdlakewoodco.com/15-percent-off-coupon/
+  https://cbdlakewoodco.com/american-shaman-15-percent-off-coupon/
 published: true
 post_date: 2020-10-13 17:24:19
 ---
