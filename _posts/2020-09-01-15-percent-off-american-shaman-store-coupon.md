@@ -21,8 +21,8 @@ post_date: 2020-09-01 17:23:00
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
 
-<!-- wp:image {"align":"center","id":676,"sizeSlug":"medium","linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><a href="https://cbdlakewoodco.com/wp-content/uploads/2020/09/15-off-coupon.jpg" target="_blank" rel="noopener noreferrer"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/09/15-off-coupon-300x187.jpg" alt="" class="wp-image-676"/></a><figcaption><strong>COUPON CODE: WWW15 Expires: [wpdts-date days="+5"]</strong></figcaption></figure></div>
+<!-- wp:image {"align":"center","id":676,"width":512,"height":319,"sizeSlug":"large","linkDestination":"media"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://cbdlakewoodco.com/wp-content/uploads/2020/09/15-off-coupon.jpg" target="_blank" rel="noopener noreferrer"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/09/15-off-coupon-1024x638.jpg" alt="" class="wp-image-676" width="512" height="319"/></a><figcaption><strong>COUPON CODE: WWW15 Expires: [wpdts-date days="+5"]</strong></figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
