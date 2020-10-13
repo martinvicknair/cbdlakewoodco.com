@@ -1,6 +1,6 @@
 ---
 ID: 720
-post_title: '15% Off Coupon'
+post_title: '15% Off Coupon Offer'
 author: cbdlakewood
 post_excerpt: 'Come in today to our convenient Lakewood, Co location for a Free CBD Sample and receive 15% off at checkout.'
 layout: page
