@@ -11,8 +11,8 @@ permalink: https://cbdlakewoodco.com/
 published: true
 post_date: 2020-08-25 22:20:01
 ---
-<!-- wp:image {"align":"center","id":653,"sizeSlug":"medium","className":"is-style-rounded"} -->
-<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-medium"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/09/cbdlakewoodco-storefront-300x300.jpg" alt="" class="wp-image-653"/></figure></div>
+<!-- wp:image {"align":"center","id":767,"sizeSlug":"large","className":"is-style-rounded"} -->
+<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large"><img src="https://cbdlakewoodco.com/wp-content/uploads/2020/11/file-4-1024x539.png" alt="" class="wp-image-767"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
