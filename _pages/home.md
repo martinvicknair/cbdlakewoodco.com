@@ -34,7 +34,7 @@ post_date: 2020-08-25 22:20:01
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>CBD American Shaman of Lakewood</strong> <br><a href="https://g.page/cbd-american-shaman-of-lakewood?share">1901 Kipling St A, Lakewood, CO 80215</a><br>Tuesday - Sunday 11am - 6pm <br>NW Corner of Kipling St and 19th Ave <br><a href="tel:+1-720-402-0784">720-402-0784</a></p>
+<p><strong>CBD American Shaman of Lakewood</strong> <br><a href="https://g.page/cbd-american-shaman-of-lakewood?share">1901 Kipling St A, Lakewood, CO 80215</a><br>Monday - Saturday 11am - 6pm <br>NW Corner of Kipling St and 19th Ave <br><a href="tel:+1-720-402-0784">720-402-0784</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
