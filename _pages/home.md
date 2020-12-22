@@ -48,7 +48,7 @@ https://youtu.be/HIUEzHXQY7Q
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><strong>Holiday Hours:</strong><br>Christmas Eve 11am-4pm<br>Closed Xmas Day<br>New Year's Eve 11am-4pm<br>New Year's Day 11am-6pm</p>
+<p class="has-text-align-center"><strong><span style="text-decoration: underline;">Holiday Hours:</span></strong><br><strong>Christmas Eve: 11am-4pm<br>Closed Xmas Day<br>New Year's Eve: 11am-4pm<br>New Year's Day: 11am-6pm</strong></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
