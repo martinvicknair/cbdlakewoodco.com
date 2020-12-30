@@ -5,7 +5,7 @@ author: cbdlakewood
 post_excerpt: ""
 layout: post
 permalink: >
-  https://cbdlakewoodco.com/posts/uncategorized/cbd-sparkling-water-sale/
+  https://cbdlakewoodco.com/posts/sales/cbd-sparkling-water-sale/
 published: true
 post_date: 2020-12-30 11:57:55
 ---
