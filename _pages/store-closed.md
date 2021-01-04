@@ -8,8 +8,8 @@ permalink: https://cbdlakewoodco.com/
 published: true
 post_date: 2021-01-04 10:58:18
 ---
-<!-- wp:paragraph -->
-<p><strong>Jan. 4, 2021</strong></p>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Jan. 4, 2021</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -17,15 +17,15 @@ post_date: 2021-01-04 10:58:18
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><strong>Please visit us in the future at our Littleton location: </strong><br><strong>9878 W Belleview Ave, Littleton, CO 80123 </strong><br><strong>(at the SW corner of W Belleview &amp; S Kipling)</strong></p>
+<p class="has-text-align-center"><strong>Please visit us in the future at our Littleton location: </strong><br><strong><a href="https://g.page/cbd-american-shaman-of-littleton">9878 W Belleview Ave, Littleton, CO 80123 </a></strong><br><strong>(at the SW corner of W Belleview &amp; S Kipling)</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"align":"center"} -->
 <h2 class="has-text-align-center"><a href="https://cbdlittleton.com "><strong>https://cbdlittleton.com </strong></a></h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p><a href="https://g.page/cbd-american-shaman-of-littleton?gm">https://g.page/cbd-american-shaman-of-littleton?gm</a></p>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":868,"width":512,"height":288,"sizeSlug":"large"} -->
